@@ -236,3 +236,20 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+collections:
+  reading:
+    output: true
+    permalink: /:collection/:path/
+  forlan:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  learning:
+    output: true
+    permalink: /:collection/:path/
+  lifeandhealth:
+    output: true
+    permalink: /:collection/:path/

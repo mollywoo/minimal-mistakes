@@ -10,14 +10,5 @@ main:
   - title: "生活健康"
     url: /lifeandhealth/
 
-  - title: "Tags"
-    url: /tags/
-
-  - title: "Pages"
-    url: /page-archive/
-
-  - title: "Collections"
-    url: /collection-archive/
-
-  - title: "External Link"
-    url: https://google.com
+  - title: "达人秀"
+    url: http://xiaolai.li/

@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : “mollywoo”
-  avatar           : “mollywoo.jpg"  # placed in /images/
-  bio              : “be good to be better.”
-  location         : “Beijing”
-  email            : "hulilzster@gmail.com"
+  name             : mollywoo
+  avatar           : back.jpg  # placed in /images/
+  bio              : be good to be better.
+  location         : Beijing
+  email            : hulilzster@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -75,7 +75,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mollywoo"
+  github           : mollywoo
   google_plus      :
   keybase          :
   instagram        :
@@ -86,7 +86,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "tingfengzhe1"
+  twitter          : tingfengzhe1
   vine             :
   weibo            :
   xing             :

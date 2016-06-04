@@ -65,7 +65,7 @@ google_ad_slot           :
 author:
   name             : mollywoo
   avatar           : back.jpg  # placed in /images/
-  bio              : be good to be better.
+  bio              : Be good to be better.
   location         : Beijing
   email            : hulilzster@gmail.com
   uri              :
@@ -166,6 +166,14 @@ defaults:
       layout: single
       author_profile: true
 
+defaults:
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
+      
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -181,6 +189,9 @@ gems:
   - jekyll-feed
   - jemoji
 
+gems:
+  - jekyll-archives
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

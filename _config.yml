@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : “茉莉花开”
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : “mollywoo”
+description              : “用脚步丈量世界，用文字记录心思.”
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -37,9 +37,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :tingfengzhe1
 facebook:
-  username               :
+  username               :arelenehu
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -63,7 +63,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : “mollywoo”
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"

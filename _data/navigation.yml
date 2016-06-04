@@ -1,16 +1,23 @@
 # main links links
+    
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "阅读经典"
+    url: /reading/
 
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/
+  - title: "终生学习"
+    url: /learning/
 
-  - title: "Sample Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
+  - title: "生活健康"
+    url: /lifeandhealth/
 
-  - title: "Sample Pages"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
+  - title: "Tags"
+    url: /tags/
 
-  - title: "Sample Collections"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+  - title: "Pages"
+    url: /page-archive/
+
+  - title: "Collections"
+    url: /collection-archive/
+
+  - title: "External Link"
+    url: https://google.com

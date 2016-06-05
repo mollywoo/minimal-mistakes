@@ -1,11 +1,9 @@
 ---
 title:  "D1-清晨英语朗读笔记"
-header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
   - Jekyll
 tags:
-
+---
 2016年6月5日
 
 今天第一天开始英语朗读行动。将每天自己的学习情况记录如下：

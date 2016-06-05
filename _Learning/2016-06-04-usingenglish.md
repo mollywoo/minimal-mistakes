@@ -1,4 +1,12 @@
-# 英语到底有什么用？
+---
+title:  "到底应该如何应用英语"
+header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+categories: 
+  - learning
+tags:
+
+
 作为人类，语言的作用是什么？
 沟通？这个答案太过肤浅
 

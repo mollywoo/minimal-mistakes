@@ -1,10 +1,9 @@
 ---
 title:  "OS简约系统的建构"
-header:
-  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
 categories: 
   - tech
 tags:
+---
 
 # OS简约系统的建构
 

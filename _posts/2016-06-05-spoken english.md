@@ -1,7 +1,7 @@
 ---
 title:  "D1-清晨英语朗读笔记"
 categories: 
-  - Jekyll
+  - English
 tags:
 ---
 2016年6月5日

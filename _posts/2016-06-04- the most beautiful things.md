@@ -5,7 +5,7 @@ header:
 categories: 
   - life
 tags:
-- blog
+  - blog
 ---
 
 # 最美的事
